@@ -40,5 +40,5 @@ Date Functions
 Derived Output Queries
 
 # 👨‍💻 Author
-Aman Kumar
-B.Tech CSE(AI&ML) – DBMS Laboratory
+# Aman Kumar
+# B.Tech CSE(AI&ML) – DBMS Laboratory
